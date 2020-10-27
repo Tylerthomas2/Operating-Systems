@@ -1,1 +1,1 @@
-
+An operating system is a software which performs all the basic tasks like file management
